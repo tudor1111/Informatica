@@ -1,7 +1,7 @@
 ﻿// Ex1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 //Se dau n numere naturale. Calculați media lor aritmetica.
-//radical(primulnr*aldoilea*altreilea*....*catenrsunt)
+
 
 #include <iostream>
 using namespace std;
